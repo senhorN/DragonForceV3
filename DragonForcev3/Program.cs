@@ -30,7 +30,7 @@ namespace DragonForcev3
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string token = "MTIxMTEwNTU2NTIJNSDUJND65D893NINDUNOKQLKEDcsj0KOc1rP8MfPr4vvdoBLQMc9K3egsa4Y";
+            string token = "MTIxMTEwNTU2NTIJNr4vvdoBL93NIND345Y7nd9oOKQLKEDcsj0KOc1rP8MfPr4vvdoBLQMc9K3egsa4Y";
 
             _client.Log += _client_Log;
 
